@@ -1,5 +1,5 @@
-name: basic_app
-description: A basic Dartvel example application
+name: class_widgets_app
+description: A Dartvel example app showcasing class-based DVClassWidget pages
 publish_to: "none"
 version: 0.0.1
 
