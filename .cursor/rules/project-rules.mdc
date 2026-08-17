@@ -1,3 +1,8 @@
+---
+description: Project working rules
+alwaysApply: true
+---
+
 # Dartvel (Gemini Context)
 
 This file tracks the project context, technical specifications, and implementation decisions for the Dartvel platform.
